@@ -85,6 +85,7 @@ h2 {
 
 .main-section {
   background: var(--background-color-1);
+  text-align: center;
 }
 
 .solutions {
